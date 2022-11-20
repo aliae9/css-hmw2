@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#google-logo-div{
+
+    width: fit-content;
+    margin: 1rem auto;
+   
+}
+
+.input-div{
+
+    width: 90%;
+    height: 4rem;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 0 0 0;
+ 
+}
+
+.color-gray{
+    background-color:#EEEEEE;
+    
+}
+
+.info-div{
+
+    width: 90%;
+    height: 5rem;
+    text-align: center;  
+    margin: 0  auto;
+    padding: 5px 0 0 0;
+    display:flex;
+    
+}
+
+#first-div{
+
+    width: 37%;
+    height: 4.5rem;
+    background-color: #7EE5DA;  
+
+}
+
+#second-div {
+    
+    width: 25%;
+    height: 4.5rem;
+    margin-left: 0.2rem;
+    background-color: #70CCC2;
+}
+
+#third-div{
+    
+    width: 100%;
+    height: 4.5rem;
+    margin-left: 0.2rem;
+    background-color: #62B3AA;
+}
+
+.help-link{
+    font-size: small;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+li>p{
+    font-size: 0.8em;
+}
+
+#btn{
+   margin-top: 4px;
+  
+}
+
+
+#footer-sec{
+    
+    text-align: center;
+    font-size: 0.75rem
+    
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
